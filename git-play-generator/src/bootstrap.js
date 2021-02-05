@@ -1,2 +1,2 @@
-// ES6 code goes here
-console.log('es6 code goes here');
+import { arrayPopper } from "./array_function";
+console.log(arrayPopper([1, 2, 3, 4]));
