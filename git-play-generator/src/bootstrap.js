@@ -1,3 +1,3 @@
 import {weightedSlots} from "./weightedLot"
 
-console.log(weightedSlots)
+console.log(weightedSlots())
