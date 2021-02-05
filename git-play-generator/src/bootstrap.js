@@ -1,2 +1,4 @@
-// ES6 code goes here
-console.log('es6 code goes here');
+import {quote, fix} from './git-play-strings.js'
+
+console.log(quote)
+console.log(fix())

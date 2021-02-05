@@ -1,9 +1,6 @@
-const quote = "Keep it simple"
+export const quote = "Keep it simple"
 
-console.log(quote)
 
-const fix = () => {
+export const fix = () => {
     return "Fixed the issues"
 }
-
-fix()
