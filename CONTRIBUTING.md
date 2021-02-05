@@ -108,14 +108,14 @@ A team member will review your changes, please keep an eye out for any requested
 1. Add a new remote upstream repository
     > You only need to do this for the initial sync.
     ```
-    $ git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git
+    $ git remote add upstream https://github.com/gleekzorps/git-play.git
     ```
 
 2. Sync your fork
     > You need to do this after each successful merge
     ```
     $ git fetch upstream
-    $ git checkout master
-    $ git merge upstream/master
+    $ git checkout main
+    $ git merge upstream/main
     $ git push origin
     ```
