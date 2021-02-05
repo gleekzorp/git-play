@@ -6,5 +6,3 @@ export function weightedSlots() {
         return "try again"
     }
 }
-
-console.log(weightedSlots())
