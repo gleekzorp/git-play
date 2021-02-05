@@ -1,2 +1,2 @@
-import { arrayPopper } from "./array_function";
-console.log(arrayPopper([1, 2, 3, 4]));
+import { shiftPopArray } from "./array_function";
+console.log(shiftPopArray([1, 2, 3, 4]));
